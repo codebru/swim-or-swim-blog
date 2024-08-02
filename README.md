@@ -1,2 +1,6 @@
-# swim-or-swim-blog
-Markdown data source for the swim or swim blog
+# Swim Or Swim
+Music as you know it
+
+## Blog Posts
+
+- [Example Blog Post](Blog/ExamplePost.md)
