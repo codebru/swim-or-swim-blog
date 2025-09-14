@@ -1,5 +1,7 @@
 # Hackathon Desk Build
 
+March 26 2017
+
 ![Picture of a desk with MDF frame, white plastic surface that curves up to contain integrated monitors and speakers](./Desk1.jpeg)
 
 I have been wanting to build a desk for a while, originally I just wanted to get a nice piece of wood and throw some legs on it but then I started to want something a bit more special. I started toying with this concept of one big piece of plastic an mounting everything into it flush (including the monitors which ended up out front). I have a reasonable amount of experience from using tools from my childhood as I have assisted on a lot of house DIY and did some work with aluminium. On the other hand I have never really designed and built anything myself, at least not at this scale. Having a hackathon coming up I decided to try and develop that skill also. One big issue was tooling. I am used to having a workshop full of tools and hardware, from where I used to work. This time I had to scrounge or buy the stuff I needed, I borrowed a drill, bought a wood saw, the tin cutters, drill bits and sand paper. Screw driver I had. I got lucky that I didn't need anything other than what I gathered in advance. I really don't know how I got away with that, the planning was pretty haphazard. In total I think i spent around £170-180. That is with tools included. Hope you find it interesting!
