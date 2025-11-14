@@ -11,4 +11,4 @@ Music as you know it
 
 ## Smaller Posts
 
-- [My 2025 OVO work desk](Small/2025\ Work\ Desk\/2025\ Work\ Desk.md)
+- [My 2025 OVO work desk](Small/2025WorkDesk/2025WorkDesk.md)
