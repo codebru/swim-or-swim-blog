@@ -8,3 +8,7 @@ Music as you know it
 ## Projects
 
 - [Desk](Projects/Desk/desk.md)
+
+## Smaller Posts
+
+- [My 2025 OVO work desk](Small/2025\ Work\ Desk\/2025\ Work\ Desk.md)
