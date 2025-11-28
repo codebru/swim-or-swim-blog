@@ -44,7 +44,7 @@ Done, I think a bargin for £5 each. They look great and they are pretty sturdy.
 Started planning out the speaker stands. these are just cut out of the MDF and then remounted on shelving brackets.
 
   
-![a drill sat on the MDF alongside a cut out speaker shelf attached to a shelving bracket](Desk8.jpeg)
+![a drill sat on the MDF alongside a cut out speaker shelf attached to a shelving bracket](./desk8.jpeg)
 
 
 Cheap shelving brackets are most of the structure of the build, they made the assembly so much easier, I was originally planning on cutting brackets out of MDF. All the affixing was done by drilling 3mm holes and using 20x4mm self tapping wood screws. I found hand screwing was best. MDF is wonderfully easy to work with.
@@ -55,7 +55,7 @@ Cheap shelving brackets are most of the structure of the build, they made the as
 Speaker stands done!
 
   
-![back plate with speaker stands sat on top of base plate, all MDF, a cut out slot at the bottom of the back plate about 50cm wide](Desk10.jpeg)
+![back plate with speaker stands sat on top of base plate, all MDF, a cut out slot at the bottom of the back plate about 50cm wide](./desk10.jpeg)
 
 I cut a hole for the monitor stand to be adjustable and triangles so that plugs can be pushed though also. Then planning out the shelving brackets to hold the back board in place.
 
@@ -140,7 +140,7 @@ The 19 inch 1440x900 monitor could do with replacing so i left space for a 27 in
 
 The speakers sound amazing in this setup. Wharfedale Diamond 9.1s connect to an s.m.s.l SA-50. (Good setup if you ignore the Amp spitting out sparks when you plug it in.....[I'm not an audiophile though])
 
-![gaming PC with open side door revealing it's parts](Desk27.jpeg)
+![gaming PC with open side door revealing it's parts](./desk27.jpeg)
 
 
 
