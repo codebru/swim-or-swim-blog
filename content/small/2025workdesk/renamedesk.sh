@@ -1,0 +1,14 @@
+git mv 2025WorkDesk1.jpeg 2025workdesk1temp.jpeg && git mv 2025workdesk1temp.jpeg 2025workdesk1.jpeg
+git mv 2025WorkDesk2.jpeg 2025workdesk2temp.jpeg && git mv 2025workdesk2temp.jpeg 2025workdesk2.jpeg
+#git mv 2025Work2025workdesk23.jpeg 2025workdesk23temp.jpeg && git mv 2025workdesk23temp.jpeg 2025workdesk23.jpeg
+#git mv 2025Work2025workdesk24.jpeg 2025workdesk24temp.jpeg && git mv 2025workdesk24temp.jpeg 2025workdesk24.jpeg
+#git mv 2025Work2025workdesk25.jpeg 2025workdesk25temp.jpeg && git mv 2025workdesk25temp.jpeg 2025workdesk25.jpeg
+#git mv 2025Work2025workdesk26.jpeg 2025workdesk26temp.jpeg && git mv 2025workdesk26temp.jpeg 2025workdesk26.jpeg
+#git mv 2025Work2025workdesk27.jpeg 2025workdesk27temp.jpeg && git mv 2025workdesk27temp.jpeg 2025workdesk27.jpeg
+#git mv 2025Work2025workdesk28.jpeg 2025workdesk28temp.jpeg && git mv 2025workdesk28temp.jpeg 2025workdesk28.jpeg
+#git mv 2025Work2025workdesk29.jpeg 2025workdesk29temp.jpeg && git mv 2025workdesk29temp.jpeg 2025workdesk29.jpeg
+#git mv 2025Work2025workdesk10.jpeg 2025workdesk10temp.jpeg && git mv 2025workdesk10temp.jpeg 2025workdesk10.jpeg
+#git mv 2025Work2025workdesk11.jpeg 2025workdesk11temp.jpeg && git mv 2025workdesk11temp.jpeg 2025workdesk11.jpeg
+#git mv 2025Work2025workdesk12.jpeg 2025workdesk12temp.jpeg && git mv 2025workdesk12temp.jpeg 2025workdesk12.jpeg
+#git mv 2025Work2025workdesk13.jpeg 2025workdesk13temp.jpeg && git mv 2025workdesk13temp.jpeg 2025workdesk13.jpeg
+#git mv 2025Work2025workdesk14.jpeg 2025workdesk14temp.jpeg && git mv 2025workdesk14temp.jpeg 2025workdesk14.jpeg

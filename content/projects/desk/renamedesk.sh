@@ -1,0 +1,14 @@
+git mv Desk20.jpeg desk20temp.jpeg && git mv desk20temp.jpeg desk20.jpeg
+git mv Desk22.jpeg desk22temp.jpeg && git mv desk22temp.jpeg desk22.jpeg
+git mv Desk23.jpeg desk23temp.jpeg && git mv desk23temp.jpeg desk23.jpeg
+git mv Desk24.jpeg desk24temp.jpeg && git mv desk24temp.jpeg desk24.jpeg
+git mv Desk25.jpeg desk25temp.jpeg && git mv desk25temp.jpeg desk25.jpeg
+git mv Desk26.jpeg desk26temp.jpeg && git mv desk26temp.jpeg desk26.jpeg
+git mv Desk27.jpeg desk27temp.jpeg && git mv desk27temp.jpeg desk27.jpeg
+git mv Desk28.jpeg desk28temp.jpeg && git mv desk28temp.jpeg desk28.jpeg
+git mv Desk29.jpeg desk29temp.jpeg && git mv desk29temp.jpeg desk29.jpeg
+git mv Desk200.jpeg desk200temp.jpeg && git mv desk200temp.jpeg desk200.jpeg
+git mv Desk201.jpeg desk201temp.jpeg && git mv desk201temp.jpeg desk201.jpeg
+git mv Desk202.jpeg desk202temp.jpeg && git mv desk202temp.jpeg desk202.jpeg
+git mv Desk203.jpeg desk203temp.jpeg && git mv desk203temp.jpeg desk203.jpeg
+git mv Desk204.jpeg desk204temp.jpeg && git mv desk204temp.jpeg desk204.jpeg
