@@ -11,5 +11,5 @@ Music as you know it
 
 ## Smaller Posts
 
-- [My 2025 OVO work desk](./small/2025WorkDesk)
-- [Panjabi Hit Squad at Strange Brew](./Small/2025-11-22-PanjabiHitSquad)
+- [My 2025 OVO work desk](./small/2025workdesk)
+- [Panjabi Hit Squad at Strange Brew](./small/panjabihitsquad)
