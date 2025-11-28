@@ -6,4 +6,32 @@
   --bg-l: 1%;
 
   --container-width: 100ch;
+
+  a {
+    color: #19cc33;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #ff5200;
+  }
+
+  .path-nav a {
+    color: #19cc33;
+    border-bottom: 1px dotted;
+  }
+
+  .path-nav a:hover {
+    color: #19cc33;
+    border-bottom: 1px solid;
+    text-decoration: none;
+  }
+
+  .path-nav li.current a {
+    color: #19cc33;
+  }
+  .terminal-nav a {
+    color: #19cc33;
+    border-bottom: 1px dotted;
+  }
 }
+
