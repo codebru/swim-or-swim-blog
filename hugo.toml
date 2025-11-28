@@ -1,0 +1,27 @@
+baseURL = 'https://www.swimorswim.net/'
+languageCode = 'en-us'
+title = 'Swim or Swim'
+
+theme = "shibui"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+
+[params]
+  author = "Philip Bruland"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/Blog/"
+    weight = 1
+  [[menu.main]]
+    name = "Small"
+    url = "/Small/"
+    weight = 2
+  [[menu.main]]
+    name = "Projects"
+    url = "/Projects/"
+    weight = 3

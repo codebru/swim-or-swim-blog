@@ -1,7 +1,4 @@
 title: Swim or Swim
 description: Music as you know it
 
-caches:
-  images:
-    dir: :cacheDir/images
 

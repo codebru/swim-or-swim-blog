@@ -1,4 +1,9 @@
-# 2025 Work desk
++++
+title = '2025 Work desk'
+date = 2025-11-14
+draft = false
++++
+
 
 From 2021 I have been working from the OVO office in Bristol. I am pro remote working generally, I like the flexibility, peace and quiet, but a post-covid corporate office is pretty peaceful and it was just down the road.
 

@@ -1,0 +1,15 @@
+# Swim Or Swim
+Music as you know it
+
+## Blog Posts
+
+- [Example Blog Post](./blog/examplepost)
+
+## Projects
+
+- [Desk](./projects/desk)
+
+## Smaller Posts
+
+- [My 2025 OVO work desk](./small/2025WorkDesk)
+- [Panjabi Hit Squad at Strange Brew](./Small/2025-11-22-PanjabiHitSquad)
